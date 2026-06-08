@@ -1,7 +1,5 @@
 # Actus — Releases
 
-Instaladores e manifesto de auto-atualizacao do Actus. O codigo-fonte e privado; este repositorio guarda apenas os artefatos de release.
-
 ## Download
 
 Baixe a versao mais recente em **[Releases](https://github.com/lucas-reales/actus-releases/releases/latest)**.
