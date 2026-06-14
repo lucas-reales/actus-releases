@@ -1,16 +1,20 @@
 # Actus — Releases
 
+[![Total de downloads](https://img.shields.io/github/downloads/lucas-reales/actus-releases/total?label=downloads&color=f97316)](https://github.com/lucas-reales/actus-releases/releases)
+[![Última versão](https://img.shields.io/github/v/release/lucas-reales/actus-releases?label=versão&color=f97316)](https://github.com/lucas-reales/actus-releases/releases/latest)
+[![Downloads da última versão](https://img.shields.io/github/downloads/lucas-reales/actus-releases/latest/total?label=downloads%20da%20última&color=f97316)](https://github.com/lucas-reales/actus-releases/releases/latest)
+
 ## Download
 
-Baixe a versao mais recente em **[Releases](https://github.com/lucas-reales/actus-releases/releases/latest)**.
+Estes links **sempre** baixam a versão mais recente:
 
-| Sistema | Arquivo | Guia |
-|---|---|---|
-| **Windows** | `Actus_x.y.z_x64-setup.exe` (recomendado) ou `.msi` | [windows/](windows/) |
-| **macOS (Apple Silicon)** | `Actus_x.y.z_aarch64.dmg` | [macos/](macos/) |
+| Sistema | Download |
+|---|---|
+| **Windows** | [Actus-windows-setup.exe](https://github.com/lucas-reales/actus-releases/releases/latest/download/Actus-windows-setup.exe) |
+| **macOS** (Intel + Apple Silicon) | [Actus-macos.dmg](https://github.com/lucas-reales/actus-releases/releases/latest/download/Actus-macos.dmg) |
 
-> Os instaladores ficam anexados a cada **Release** (link acima). As pastas `windows/` e `macos/` trazem um guia explicando os arquivos de cada sistema.
+> Também é possível baixar manualmente em **[Releases](https://github.com/lucas-reales/actus-releases/releases/latest)**. As pastas [windows/](windows/) e [macos/](macos/) trazem um guia explicando os arquivos de cada sistema.
 
-## Atualizacao automatica
+## Atualização automática
 
-O Actus verifica novas versoes sozinho e se atualiza (baixando deste repositorio). Voce instala uma vez; as proximas versoes chegam automaticamente.
+O Actus verifica novas versões sozinho e se atualiza (baixando deste repositório). Você instala uma vez; as próximas versões chegam automaticamente.
