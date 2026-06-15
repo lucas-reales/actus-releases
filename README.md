@@ -2,7 +2,6 @@
 
 [![Total de downloads](https://img.shields.io/github/downloads/lucas-reales/actus-releases/total?label=downloads&color=f97316)](https://github.com/lucas-reales/actus-releases/releases)
 [![Última versão](https://img.shields.io/github/v/release/lucas-reales/actus-releases?label=versão&color=f97316)](https://github.com/lucas-reales/actus-releases/releases/latest)
-[![Downloads da última versão](https://img.shields.io/github/downloads/lucas-reales/actus-releases/latest/total?label=downloads%20da%20última&color=f97316)](https://github.com/lucas-reales/actus-releases/releases/latest)
 
 ## Download
 
